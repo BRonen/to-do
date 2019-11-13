@@ -1,0 +1,17 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "repository": "https://github.com/BRonen/to-do.git",
+  "author": "Brenno Rodrigues <brennopereira6@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
